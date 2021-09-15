@@ -1,0 +1,59 @@
+header{
+  background-color: rgb(145, 31, 39);
+  height: 60px;
+  width: 100%;
+}
+
+.LOGO{
+  margin-top: 35px;
+  margin-left: 100px;
+}
+footer{
+  background-color: rgb(145, 31, 39);
+  color: white;
+  text-align: center;
+  margin-top: 70px;
+}
+h1{
+  color: white;
+  text-align: center;
+}
+h4{
+  text-align:center;
+}
+
+
+a:hover {
+ color: white;
+}
+
+a:link, a:visited {
+	text-decoration: white;
+}
+
+a:active {
+	text-decoration: white;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+.mensagem{
+text-align: left;
+margin-left: 550px;
+margin-top: -285px;
+}
+
+.BOTAO{
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.cabeçalho{
+  background-color: rgb(99, 10, 16);;
+  width: 100px;
+  height: 30px;
+  margin-left: 1200px;
+  text-align: center;
+  color: white;
+  margin-top: -40px;
+}

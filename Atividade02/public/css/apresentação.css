@@ -1,0 +1,59 @@
+.foto{
+  width: 800px;
+  height: 500px;
+  margin-left: 100px;
+}
+p{
+  width: 800px;
+  font-family: arial;
+    margin-left: 100px;
+}
+b{
+  font-family: arial;
+    margin-left: 100px;
+}
+h1{
+  width: 800px;
+  margin-left: 100px;
+  color:rgb(99, 10, 16);
+}
+header{
+ background-color: rgb(145, 31, 39);
+ height: 60px;
+ width: 100%;
+}
+footer{
+  background-color: rgb(145, 31, 39);
+  color: white;
+  text-align: center;
+  margin-top: 70px;
+}
+.BOTAO2{
+margin-left: 100px;
+}
+.BOTAO{
+margin-left: 400px;
+margin-top: -52px;
+}
+.lnews{
+  color:white;
+  text-align:center;
+}
+a:hover {
+ color: black;
+}
+
+a:link, a:visited {
+	text-decoration: black;
+}
+
+a:active {
+	text-decoration: black;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+a{
+  color: black;
+}

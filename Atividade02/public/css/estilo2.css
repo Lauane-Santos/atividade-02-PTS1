@@ -1,0 +1,80 @@
+header{
+ background-color: rgb(145, 31, 39);
+ height: 60px;
+ width: 100%;
+}
+h1{
+  background-color:rgb(99, 10, 16);
+  color: white;
+  height: 60px;
+}
+a:hover {
+ color: black;
+}
+
+a:link, a:visited {
+	text-decoration: black;
+}
+
+a:active {
+	text-decoration: black;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+a{
+  color: black;
+}
+body{
+  background-color: white;
+}
+.NOT1{
+  font-family: arial;
+  width: 550px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.NOT2{
+  font-family: arial;
+  width: 550px;
+  margin-left: 750px;
+  margin-top: -575px;
+}
+.NOT3{
+  font-family: arial;
+  width: 550px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.NOT4{
+  font-family: arial;
+  width: 550px;
+  margin-left: 750px;
+  margin-top: -555px;
+}
+p{
+  font-family: arial;
+  width: 550px;
+}
+
+.foto{
+  width: 550px;
+  height: 400px;
+}
+.esquerda{
+  margin-left: 50px;
+}
+footer{
+  background-color: rgb(145, 31, 39);
+  color: white;
+  text-align: center;
+  margin-top: 70px;
+}
+.BOTAO2{
+margin-left: 50px;
+}
+h1{
+  color: white;
+  text-align: center;
+}
